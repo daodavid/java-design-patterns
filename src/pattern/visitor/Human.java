@@ -5,6 +5,12 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class Human {
 
+    /*
+       Todo there a many people which use visitor visitor make change in evey of them,also Visitor is static singleton and it can be call form every where and holds info every people
+
+       many to one
+     */
+
     private static int lastID=0;
 
     public Human( int skill, int age) {
