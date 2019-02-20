@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+
+<beans>
+    <class>
+     <name>pattern.visitor.Human</name>
+     <fuck>das</fuck>
+    </class>
+</beans>

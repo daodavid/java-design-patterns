@@ -7,8 +7,8 @@ public class EmailSender {
 
     /*
          Todo the idea is one sender to send its one same massage to many people in one time
-
-         one to many
+          one to many
+          The main idea is the change of one object ot reflect others(observers)
      */
 
     List<Human> humans = new ArrayList<>();
