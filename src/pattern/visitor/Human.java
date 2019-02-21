@@ -6,7 +6,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public class Human {
 
     /*
-       Todo there a many people which use visitor visitor make change in evey of them,also Visitor is static singleton and it can be call form every where and holds info every people
+       Todo there a many people which use visitor visitor make change in evey of them,also Visitor is static singleton and it can be call form every where and holds info for every people
 
        many to one
      */
