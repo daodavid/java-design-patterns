@@ -40,7 +40,9 @@ public abstract class Process implements Runnable{
         this.name = name;
     }
     @Override
-    public void run(){
+    public final void run(){
         runProcess();
     }
+
+
 }
