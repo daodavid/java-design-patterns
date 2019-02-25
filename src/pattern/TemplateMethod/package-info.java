@@ -6,5 +6,5 @@ package pattern.TemplateMethod;
    super abstract class wich will be execute details
    wich will have been implemented  in child class
 
-   Thus we increase  the abstraction for client 
+   Thus we increase  the abstraction for client
  */
