@@ -1,4 +1,6 @@
 package pattern.state;
 
-public class StateProcess {
+public interface StateProcess {
+
+    void doAction() throws Exception;
 }
